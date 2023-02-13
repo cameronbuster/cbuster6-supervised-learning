@@ -4,7 +4,7 @@
 
 To run:
 
-0. git clone 
+0. git clone https://github.com/cameronbuster/cbuster6-supervised-learning.git
 1. Create virtual environment in your terminal. "python -m venv venv"
 2. Activate this venv. If Windows, ".\venv\Scripts\activate". If macOS, "source venv/bin/activate".
 3. Install requirements. "pip install -r requirements.txt"
